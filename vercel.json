@@ -1,0 +1,7 @@
+{
+  "name": "items-list",
+  "version": 2,
+  "env": {
+    "MONGODB": "@mongodb"
+  }
+}
